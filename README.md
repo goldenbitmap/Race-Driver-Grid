@@ -219,4 +219,4 @@ Race Driver Grid is available as a full free version with all features and updat
 Experience the thrill of racing today! Download Race Driver Grid now and hit the tracks with confidence!
 
 ---
-**Last updated:** 2026-10-31 22:19:28 UTC
+**Last updated:** 2026-11-01 01:58:30 UTC
